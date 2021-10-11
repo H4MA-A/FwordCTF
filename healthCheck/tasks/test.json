@@ -1,0 +1,8 @@
+{
+	"name":"Task_name",
+	"type":"Task_category",
+	"in": "input",
+	"out": "output",
+	"port":"123",
+	"server":"0.0.0.0"
+}
